@@ -1,12 +1,10 @@
 
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
-# test
+# ReadMe Generator
 
 ## Description
 
-test
+Generates a professional ReadMe file for the user based on inputs from inquirer.
 
 ## Table of Contents
 
@@ -18,19 +16,19 @@ test
 
 ## Installation
 
-test
+Must have inquirer ver 8.2.4 installed.
 
 ## Usage
 
-test
+Initiate program by typing "node index.js" into terminal. Answer prompts that follow.
 
 ## Contributing
 
-test
+Contact for more information about contributing.
 
 ## Tests
 
-test
+See usage information for test instructions.
 
 ## License
 
@@ -39,5 +37,5 @@ This project is licensed under the MIT license.
 ## Questions
 
 domschnepf1@gmail.com
-[Dschnepf7](https://github.com/Dschnepf7?tab=repositories)
+[Dschnepf7](https://github.com/Dschnepf7)
 

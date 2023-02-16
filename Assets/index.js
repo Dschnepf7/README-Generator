@@ -51,8 +51,6 @@ inquirer
     const filename = 'README.md';
 
     const content = `
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 
 # ${answers.title}
 
