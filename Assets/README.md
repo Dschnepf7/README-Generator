@@ -1,9 +1,9 @@
 
-# Test
+# ReadMe.md Generator
 
 ## Description
 
-This is a test of the readme generator
+Generates a professional ReadMe.me file for the user based on inputs to inquirer prompts.
 
 ## Table of Contents
 
@@ -15,20 +15,26 @@ This is a test of the readme generator
 
 ## Installation
 
-requires installation of inquirer ver 8.2.4
+Must have Inquirer ver8.2.4 installed.
 
 ## Usage
 
-Test information
+Initiate program by typing "node index.js" into the terminal. Then answer the prompts that follow.
 
 ## Contributing
 
-Email for info about contribution domschnepf1@gmail.com
+Contact for more info about contributing.
 
 ## Tests
 
-test instructions
+See usage information for how to test program.
 
 ## License
 
 This project is licensed under the MIT license.
+
+## Questions
+
+domschnepf1@gmail.com
+[Dschnepf7](https://github.com/Dschnepf7?tab=repositories)
+

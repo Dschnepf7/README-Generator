@@ -39,6 +39,13 @@ inquirer
       message: 'What kind of license does your project have?',
       choices: ['MIT', 'GPLv3', 'Apache', 'Unlicense', 'Other'],
     },
+    {type: 'input',
+     name: 'questions',
+     message: 'What is your email address?'
+    },
+    {type: 'input',
+     name: 'userName',
+     message: 'What is your GitHub user name?'}
   ])
   .then((answers) => {
     const filename = 'README.md';
@@ -77,6 +84,12 @@ ${answers.tests}
 ## License
 
 This project is licensed under the ${answers.license} license.
+
+## Questions
+
+${answers.questions}
+[${answers.userName}](https://github.com/Dschnepf7?tab=repositories)
+
 `;
 
     fs.writeFile(filename, content, (err) => {
