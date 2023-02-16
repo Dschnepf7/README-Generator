@@ -1,9 +1,12 @@
 
-# ReadMe.md Generator
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+# test
 
 ## Description
 
-Generates a professional ReadMe.me file for the user based on inputs to inquirer prompts.
+test
 
 ## Table of Contents
 
@@ -15,19 +18,19 @@ Generates a professional ReadMe.me file for the user based on inputs to inquirer
 
 ## Installation
 
-Must have Inquirer ver8.2.4 installed.
+test
 
 ## Usage
 
-Initiate program by typing "node index.js" into the terminal. Then answer the prompts that follow.
+test
 
 ## Contributing
 
-Contact for more info about contributing.
+test
 
 ## Tests
 
-See usage information for how to test program.
+test
 
 ## License
 

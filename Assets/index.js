@@ -51,6 +51,9 @@ inquirer
     const filename = 'README.md';
 
     const content = `
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 # ${answers.title}
 
 ## Description
@@ -88,7 +91,7 @@ This project is licensed under the ${answers.license} license.
 ## Questions
 
 ${answers.questions}
-[${answers.userName}](https://github.com/Dschnepf7?tab=repositories)
+[${answers.userName}](https://github.com/${answers.userName})
 
 `;
 
