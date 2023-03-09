@@ -6,6 +6,10 @@
 
 Generates a professional ReadMe file for the user based on inputs from inquirer.
 
+## Walkthrough Video
+
+https://drive.google.com/file/d/109nl6upVWcNC20WkeQmZ9dm-vn3mvTxl/view
+
 ## Table of Contents
 
 - [Installation](#installation)
